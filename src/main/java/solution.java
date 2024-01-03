@@ -1,4 +1,4 @@
-public class solution {
+public class Solution {
     public static void main(String[] args) {
         String productName1 = "Milk";
         String productName2 = "Chocolate";
